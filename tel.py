@@ -134,7 +134,7 @@ def main():
         '[R1]TELEGRAM,' '[CC]'
         '[P1]TASPEN98', '[CC]'
         '[P1]INTERNET GRATIS ', '[CC]'
-        '[G1]TASPEN CYBER KUDUS',
+        '[G1]TASPEN CYBER',
         'Satu Niat - Satu Semangat -Satu Tujuan',
         '',
     ])))
